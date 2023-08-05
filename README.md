@@ -10,5 +10,3 @@ Instructions: To use the model, simply input any text you wish to analyze into t
 Installation: To install and run the model on your local machine, make sure you have Python 3 installed along with the required libraries listed in the requirements.txt file. You can then run the app.py file and access the interface on your web browser.
 
 Contributing: Contributions to this project are welcome! Feel free to open an issue or submit a pull request.
-
-License: This project is licensed under the MIT License.
