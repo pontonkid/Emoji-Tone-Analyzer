@@ -11,4 +11,4 @@ Installation: To install and run the model on your local machine, make sure you 
 
 Contributing: Contributions to this project are welcome! Feel free to open an issue or submit a pull request.
 
-(https://colab.research.google.com/github/pontonkid/Emoji-Tone-Analyzer/blob/main/Untitled18.ipynb)()
+
